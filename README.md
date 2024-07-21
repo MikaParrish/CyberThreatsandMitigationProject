@@ -8,7 +8,7 @@ This project consists of our week 1 team presentation to enhance our understandi
 <h2>Powerpoint Presentation:</h2>
 
 [Powerpoint Presentation](https://imgur.com/a/yfDH8Of)
-![alt text](https://github.com/MikaParrish/CyberThreatsandMitigationProject/blob/main/Project1Threats.png "Logo Title Text 1")
+![alt text](https://github.com/MikaParrish/CyberThreatsandMitigationProject/blob/main/Project1Threats.png "Powerpoint Presentation")
 
 <!--
  ```diff
