@@ -8,7 +8,7 @@ This project consists of our week 1 team presentation to enhance our understandi
 <h2>Powerpoint Presentation:</h2>
 
 [Click Me: Powerpoint Presentation](https://imgur.com/a/yfDH8Of)
-[<img src="Project1Threats.png">](https://imgur.com/a/yfDH8Of){:target="_blank" rel="noopener"}
+[<img src="Project1Threats.png">](https://imgur.com/a/yfDH8Of)
 <!--
  ```diff
 - text in red
